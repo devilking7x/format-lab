@@ -14,6 +14,11 @@ Universal **local-first** format converter, formatter & validator — convert be
 - **File import** — drop a `.json`, `.yaml`, `.toml`, `.xml`, `.csv` or `.sql` file (stays in your tab)
 - **Copy & download** results, sample data for every format, `⌘/Ctrl+Enter` shortcut
 
+
+### ❤️ Bada Dil, Chhoti Madad
+Ye tool free hai aur hamesha free rahega. Agar isne tumhara time ya paisa bachaya ho, to ek Star ⭐ de do aur chahe to sponsor kar do.
+[⭐ Star this repo](https://github.com/devilking7x/format-lab) [☕ Sponsor](https://github.com/sponsors/devilking7x)
+
 ## 🔁 Supported conversions
 
 | From ↓ / To → | JSON | YAML | TOML | XML | CSV |
