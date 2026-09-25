@@ -46,6 +46,8 @@ Format Lab is 100% client-side. Your data never leaves the browser tab — no ac
 
 ![Demo](screenshots/demo.png)
 
+![Demo GIF](screenshots/demo.gif)
+
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE).
