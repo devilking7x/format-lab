@@ -16,8 +16,8 @@ Universal **local-first** format converter, formatter & validator — convert be
 
 
 ### ❤️ Bada Dil, Chhoti Madad
-Ye tool free hai aur hamesha free rahega. Agar isne tumhara time ya paisa bachaya ho, to ek Star ⭐ de do aur chahe to sponsor kar do.
-[⭐ Star this repo](https://github.com/devilking7x/format-lab) [☕ Sponsor](https://github.com/sponsors/devilking7x)
+Ye tool free hai aur hamesha free rahega. Agar isne tumhara time ya paisa bachaya ho, to ek Star ⭐ de do.
+[⭐ Star this repo](https://github.com/devilking7x/format-lab)
 
 ## 🔁 Supported conversions
 
