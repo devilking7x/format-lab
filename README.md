@@ -53,6 +53,20 @@ Format Lab is 100% client-side. Your data never leaves the browser tab — no ac
 
 ![Demo GIF](screenshots/demo.gif)
 
+## ❓ FAQ
+
+**Is my file uploaded anywhere?**
+No. Conversion, validation, and encoding all run locally in your browser.
+
+**How large a file can it handle?**
+Up to your browser's memory — files of several MB are usually fine. Very large files may get slow.
+
+**Which conversions are supported?**
+JSON ↔ YAML ↔ TOML ↔ XML ↔ CSV, plus Base64/URL encoding-decoding and a SQL formatter.
+
+**What happens with invalid input?**
+You get a friendly error message pointing at the exact problem location instead of a cryptic crash.
+
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE).
