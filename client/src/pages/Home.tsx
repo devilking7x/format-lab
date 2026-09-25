@@ -407,9 +407,9 @@ export default function Home() {
                   <>
                     <ToolSelect
                       ariaLabel="Load sample"
-                      value=""
-                      onChange={(v) => { if (v) { setInput(SAMPLES[v as Format]); setFileName(""); clearConvertMessages(); setOutput(""); } }}
-                      options={[{ value: "", label: "Sample…" }, ...FORMATS.map((f) => ({ value: f, label: FORMAT_LABELS[f] }))]}
+                      value="__placeholder__"
+                      onChange={(v) => { if (v && v !== "__placeholder__") { setInput(SAMPLES[v as Format]); setFileName(""); clearConvertMessages(); setOutput(""); } }}
+                      options={[{ value: "__placeholder__", label: "Sample…" }, ...FORMATS.map((f) => ({ value: f, label: FORMAT_LABELS[f] }))]}
                       className="w-[110px] !h-8"
                     />
                     <button className="btn-ghost !h-8" onClick={() => fileInputRef.current?.click()} type="button"><Upload size={14} /> <span className="hidden sm:inline">Open file</span></button>
